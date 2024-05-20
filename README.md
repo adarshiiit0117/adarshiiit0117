@@ -3,7 +3,6 @@
 <h3 align="center">B.Tech CSE student at IIT Kottayam passionate about DSA, AI/ML, and coding adventures</h3>
 <img align="right" alt="coding" width="400" src="https://t4.ftcdn.net/jpg/05/90/45/35/360_F_590453560_ugMuPncnGYB6XnJqmC8xiPQx4eg3jmMD.jpg">
 
-- 🌱 I’m currently learning **NODE JS,EXPRESS JS,MONGO DB**
 
 
 <a href="https://linkedin.com/in/adarsh-dubey-501970285" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adarsh-dubey-501970285" height="30" width="40" /></a>
