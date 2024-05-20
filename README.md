@@ -10,6 +10,7 @@
 <a href="https://www.codechef.com/users/dubeyadarsh862" target="blank"><img align="center" src="https://cdn.codechef.com/images/cc-logo.svg" alt="dubeyadarsh862" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/dubeyadarsh862" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="dubeyadarsh862" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/dubeyadarsh862" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dubeyadarsh862" height="30" width="40" /></a>
+<a href="https://www.naukri.com/code360/profile/dubeyadarsh862" target="blank"><img align="center" src="https://files.codingninjas.in/new-cn-logos-1-1711622387.svg" alt="dubeyadarsh862" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/dubeyadarsh862/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="dubeyadarsh862/profile" height="30" width="40" /></a>
 </p>
 
