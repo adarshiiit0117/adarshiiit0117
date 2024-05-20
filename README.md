@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm ADARSH DUBEY</h1>
 
-<h3 align="center">B.Tech CSE student at IIT Kottayam passionate about DSA, AI/ML, and coding adventures</h3>
+<h3 align="center">B.Tech CSE student at IIIT Kottayam passionate about DSA, AI/ML, and coding adventures</h3>
 <img align="right" alt="coding" width="400" src="https://t4.ftcdn.net/jpg/05/90/45/35/360_F_590453560_ugMuPncnGYB6XnJqmC8xiPQx4eg3jmMD.jpg">
 
 
