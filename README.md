@@ -6,7 +6,7 @@
 
 
 <a href="https://linkedin.com/in/adarsh-dubey-501970285" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adarsh-dubey-501970285" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/dubeyadarsh862" target="blank"><img align="center" src="https://cdn.codechef.com/images/cc-logo.svg" alt="dubeyadarsh862" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/dubeyadarsh0611" target="blank"><img align="center" src="https://cdn.codechef.com/images/cc-logo.svg" alt="dubeyadarsh862" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/dubeyadarsh0611" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="dubeyadarsh862" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/dubeyadarsh862" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dubeyadarsh862" height="30" width="40" /></a>
 <a href="https://www.naukri.com/code360/profile/dubeyadarsh862" target="blank"><img align="center" src="https://files.codingninjas.in/new-cn-logos-1-1711622387.svg" alt="dubeyadarsh862" height="30" width="40" /></a>
