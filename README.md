@@ -8,7 +8,7 @@
 <a href="https://linkedin.com/in/adarsh-dubey-501970285" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adarsh-dubey-501970285" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/dubeyadarsh061" target="blank"><img align="center" src="https://cdn.codechef.com/images/cc-logo.svg" alt="dubeyadarsh862" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/dubeyadarsh0611" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="dubeyadarsh862" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/dubeyadarsh862" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dubeyadarsh862" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/dubeyadarsh0611" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dubeyadarsh862" height="30" width="40" /></a>
 
 <a href="https://auth.geeksforgeeks.org/user/dubeyadarsh0611/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="dubeyadarsh862/profile" height="30" width="40" /></a>
 </p>
