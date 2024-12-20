@@ -14,11 +14,7 @@
   System, Object Oriented Programming </h3>
 <h3>Other Skills:AI, ML,NLP</h3>
 
-<h1> Let's Connect</h1>
 
-<a href="https://www.linkedin.com/in/dubeyadarsh0611/" target="_blank">
-  <img align="left" alt="medium" width="30px" src="https://img.freepik.com/premium-vector/square-linkedin-logo-isolated-white-background_469489-892.jpg" />
-</a>
 
 
 
