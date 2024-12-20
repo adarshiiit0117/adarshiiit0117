@@ -4,9 +4,34 @@
 <br><br>💡 I thrive on problem-solving and enjoy participating in hackathons and coding contests. These experiences have honed my analytical skills and creativity, enabling me to tackle complex challenges effectively.<br><br>🚀 I'm always eager to learn new technologies and stay updated with the latest trends in the tech world. My goal is to continuously grow and apply my knowledge to real-world problems, contributing to innovative solutions.</h3>
 
 
+<h1>Technical Skills: </h1>
+<h3>Language: C, C++, Java, Python</h3>
+<h3>FrontEnd: HTML, BootStrap, CSS, Tailwind CSS, JavaScript, React Js</h3>
+<h3>Backend: Spring Boot, Node Js, PHP</h3>
+<h3>DataBases: MySql, Sqlite, MongoDb</h3>
+<h3>Libraries: Numpy, Pandas ,Scipy,Matplotlib,Nltk,Spacy,Sklearn,Seaborn</h3>
+<h3>CouseWork:Data Structures and Algorithms,  Computer Networks, Database Management System, Operating                  
+  System, Object Oriented Programming </h3>
+<h3>Other Skills:AI, ML,NLP</h3>
+
+<h1> Let's Connect</h1>
+
+<a href="https://www.linkedin.com/in/dubeyadarsh0611/" target="_blank">
+  <img align="left" alt="medium" width="30px" src="https://img.freepik.com/premium-vector/square-linkedin-logo-isolated-white-background_469489-892.jpg" />
+</a>
+
+
+
+<h2>GitHub Stats</h2>
+
+![Adarsh Dubey 's Stats](https://github-readme-stats.vercel.app/api?username=adarshiiit0117&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+![Adarsh Dubey's Streak](https://github-readme-streak-stats.herokuapp.com/?user=adarshiiit0117&theme=vue-dark&hide_border=true)
+
+![Adarsh Dubey's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adarshiiit0117&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
+Thanks for visiting! ✨
 
 
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
