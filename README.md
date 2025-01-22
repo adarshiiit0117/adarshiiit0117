@@ -7,7 +7,7 @@
 <h1>Technical Skills: </h1>
 <h3>Language: C, C++, Java, Python</h3>
 <h3>FrontEnd: HTML, BootStrap, CSS, Tailwind CSS, JavaScript, React Js</h3>
-<h3>Backend: Spring Boot, Node Js, Express Js, PHP</h3>
+<h3>Backend: Spring Boot</h3>
 <h3>DataBases: MySql, Sqlite, MongoDb</h3>
 <h3>Libraries: Numpy, Pandas ,Scipy,Matplotlib,Nltk,Spacy,Sklearn,Seaborn</h3>
 <h3>CourseWork:Data Structures and Algorithms,  Computer Networks, Database Management System, Operating                  
