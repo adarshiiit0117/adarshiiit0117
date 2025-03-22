@@ -26,6 +26,14 @@
 
 ![Adarsh Dubey's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adarshiiit0117&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
+</div>
+
+<div align="center">
+  <p>⭐️ From <a href="https://github.com/adarshiiit0117">Adarsh Dubey</a></p>
+  
+  ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=adarshiiit0117.adarshiiit0117)
+</div>
+
 Thanks for visiting! ✨
 
 
