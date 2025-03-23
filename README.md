@@ -2,8 +2,11 @@
   <p>⭐️ From <a href="https://github.com/adarshiiit0117">Adarsh Dubey</a></p>
   
   ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=adarshiiit0117.adarshiiit0117)
-</div>
-<h1 align="center">Hi 👋, I'm ADARSH DUBEY</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFA500&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+ADARSH+DUBEY" />
+</h1>
+
+
 
 <h3 align="center">👋 Hi, I'm Adarsh Dubey, a passionate Computer Science student at the Indian Institute of Information Technology (IIIT) Kottayam. Currently pursuing my B.Tech in Computer Science and Engineering, I have a strong focus on Data Structures and Algorithms (DSA) and a keen interest in competitive coding.<br>
 <br><br>💡 I thrive on problem-solving and enjoy participating in hackathons and coding contests. These experiences have honed my analytical skills and creativity, enabling me to tackle complex challenges effectively.<br><br>🚀 I'm always eager to learn new technologies and stay updated with the latest trends in the tech world. My goal is to continuously grow and apply my knowledge to real-world problems, contributing to innovative solutions.</h3>
