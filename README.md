@@ -1,3 +1,8 @@
+<div align="center">
+  <p>⭐️ From <a href="https://github.com/adarshiiit0117">Adarsh Dubey</a></p>
+  
+  ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=adarshiiit0117.adarshiiit0117)
+</div>
 <h1 align="center">Hi 👋, I'm ADARSH DUBEY</h1>
 
 <h3 align="center">👋 Hi, I'm Adarsh Dubey, a passionate Computer Science student at the Indian Institute of Information Technology (IIIT) Kottayam. Currently pursuing my B.Tech in Computer Science and Engineering, I have a strong focus on Data Structures and Algorithms (DSA) and a keen interest in competitive coding.<br>
