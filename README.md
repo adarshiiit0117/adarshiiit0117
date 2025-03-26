@@ -1,6 +1,4 @@
 <div align="center">
-  <p>⭐️ From <a href="https://github.com/adarshiiit0117">Adarsh Dubey</a></p>
-  
   ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=adarshiiit0117.adarshiiit0117)
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFA500&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+ADARSH+DUBEY" />
