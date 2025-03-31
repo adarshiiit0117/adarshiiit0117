@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=FFA500&center=true&vCenter=true&width=600&lines=Hello+Visitors,+I'm+Adarsh+Dubey;Backend+Developer+and+AI/ML+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=FFA500&center=true&vCenter=true&width=600&lines=Hello+Visitors,+I'm+Adarsh+Dubey;Backend+Developer+and+AI/ML+Practitioner" />
 </h1>
 
 
