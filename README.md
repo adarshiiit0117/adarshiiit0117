@@ -33,6 +33,8 @@
 
 ![Adarsh Dubey's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adarshiiit0117&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
+[![Adarsh Dubey's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=adarshiiit0117&days=45&bg_color=0c1014&color=268f77&line=268f77&point=268f77&area=true&hide_border=true)](https://github.com/adarshiiit0117/github-readme-activity-graph)
+
 
 
 Thanks for visiting! ❤️
