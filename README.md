@@ -27,9 +27,10 @@
 
 <h2>GitHub Stats</h2>
 
-![Adarsh Dubey 's Stats](https://github-readme-stats.vercel.app/api?username=adarshiiit0117&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Adarsh Dubey's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adarshiiit0117&show_icons=true&include_all_commits=true&theme=vue-dark)
 
-![Adarsh Dubey's Streak](https://github-readme-streak-stats.herokuapp.com/?user=adarshiiit0117&theme=vue-dark&hide_border=true)
+
+
 
 ![Adarsh Dubey's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adarshiiit0117&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
