@@ -12,15 +12,40 @@
 <br><br>💡 I thrive on problem-solving and enjoy participating in hackathons and coding contests. These experiences have honed my analytical skills and creativity, enabling me to tackle complex challenges effectively.<br><br>🚀 I'm always eager to learn new technologies and stay updated with the latest trends in the tech world. My goal is to continuously grow and apply my knowledge to real-world problems, contributing to innovative solutions.</h3>
 
 
-<h1>Technical Skills: </h1>
-<h3>Language: C, C++, Java, Python</h3>
-<h3>FrontEnd: HTML, BootStrap, CSS, Tailwind CSS, JavaScript, React Js</h3>
-<h3>Backend: Spring Boot,Spring Security ,JWT (JSON Web Tokens),REST APIs,JDBC (Java Database Connectivity)</h3>
-<h3>DataBases: MySql, Sqlite</h3>
-<h3>Libraries: Numpy, Pandas ,Scipy,Matplotlib,Nltk,Spacy,Sklearn,Seaborn</h3>
-<h3>CourseWork:Data Structures and Algorithms,  Computer Networks, Database Management System, Operating                  
-  System, Object Oriented Programming </h3>
-<h3>Other Skills:AI, ML,NLP</h3>
+<h1>Technical Skills:</h1>
+
+<h3>Languages:</h3>
+<p>C, C++, Java, Python</p>
+
+<h3>Frontend:</h3>
+<p>HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, React.js</p>
+
+<h3>Backend:</h3>
+<p>Spring Boot, Spring Security, JWT (JSON Web Tokens), REST APIs, JDBC (Java Database Connectivity), Django, Django REST Framework (DRF), FastAPI</p>
+
+<h3>Databases:</h3>
+<p>MySQL, SQLite</p>
+
+<h3>Libraries & Tools (Python):</h3>
+<p>NumPy, Pandas, SciPy, Matplotlib, Seaborn, Scikit-learn, NLTK, SpaCy</p>
+
+<h3>AI/ML/DL Tools & Techniques:</h3>
+<p>
+    Linear Regression, Logistic Regression, Decision Trees, Random Forest, Support Vector Machines (SVM), K-Nearest Neighbors (KNN), Naïve Bayes, Multi-Layer Perceptron (MLP), Supervised Learning, Unsupervised Learning, Natural Language Processing (NLP),
+    Convolutional Neural Networks (CNN), Recurrent Neural Networks (RNN), Long Short-Term Memory Networks (LSTM), Gated Recurrent Units (GRU), Autoencoders, Generative Adversarial Networks (GANs), Transformers, Deep Neural Networks (DNN)
+</p>
+
+<h3>DevOps & Cloud:</h3>
+<p>
+    <strong>AWS:</strong> EC2, S3 <br>
+    <strong>Containerization & Orchestration:</strong> Docker, Kubernetes <br>
+    <strong>Infrastructure as Code (IaC):</strong> Terraform <br>
+    <strong>CI/CD:</strong> GitHub Actions, Jenkins
+</p>
+
+<h3>Coursework:</h3>
+<p>Data Structures and Algorithms, Computer Networks, Database Management System, Operating System, Object-Oriented Programming</p>
+
 
 
 
