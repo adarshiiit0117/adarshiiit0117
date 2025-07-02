@@ -32,7 +32,7 @@
 <h3>AI/ML/DL Tools & Techniques:</h3>
 <p>
     Linear Regression, Logistic Regression, Decision Trees, Random Forest, Support Vector Machines (SVM), K-Nearest Neighbors (KNN), Naïve Bayes, Supervised Learning, Unsupervised Learning, Natural Language Processing (NLP),
-    Convolutional Neural Networks (CNN), Recurrent Neural Networks (RNN), Long Short-Term Memory Networks (LSTM),  Autoencoders,Transformers
+    Convolutional Neural Networks (CNN), Recurrent Neural Networks (RNN), Long Short-Term Memory Networks (LSTM),SOM,ANN, Autoencoders
 </p>
 
 <h3>DevOps & Cloud:</h3>
