@@ -21,7 +21,7 @@
 <p>HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, React.js</p>
 
 <h3>Backend:</h3>
-<p>Spring Boot, Spring Security, JWT (JSON Web Tokens), REST APIs, JDBC (Java Database Connectivity)</p>
+<p>Spring Boot, Spring Security, JWT (JSON Web Tokens), REST APIs, JDBC (Java Database Connectivity),FastAPI</p>
 
 <h3>Databases:</h3>
 <p>MySQL, SQLite</p>
