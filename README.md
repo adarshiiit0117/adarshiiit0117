@@ -8,6 +8,7 @@
 
 
 
+
 <h3 align="center">👋 Hi, I'm Adarsh Dubey, a passionate Computer Science student at the Indian Institute of Information Technology (IIIT) Kottayam. Currently pursuing my B.Tech in Computer Science and Engineering, I have a strong focus on Data Structures and Algorithms (DSA) and a keen interest in competitive coding.<br>
 <br><br>💡 I thrive on problem-solving and enjoy participating in hackathons and coding contests. These experiences have honed my analytical skills and creativity, enabling me to tackle complex challenges effectively.<br><br>🚀 I'm always eager to learn new technologies and stay updated with the latest trends in the tech world. My goal is to continuously grow and apply my knowledge to real-world problems, contributing to innovative solutions.</h3>
 
@@ -58,6 +59,10 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=adarshiiit0117&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
+<h2 align="center">🏆 GitHub Trophies</h2>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=adarshiiit0117&theme=radical&no-frame=false&no-bg=false&margin-w=4">
+</div>
 
 
 
