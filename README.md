@@ -25,7 +25,7 @@
 <p>Spring Boot, Spring Security, JWT (JSON Web Tokens), REST APIs, JDBC (Java Database Connectivity),FastAPI</p>
 
 <h3>Databases:</h3>
-<p>MySQL, SQLite</p>
+<p>MySQL, SQLite,PostgreSQL, MongoDB, and SQLAlchemy</p>
 
 <h3>Libraries & Tools (Python):</h3>
 <p>NumPy, Pandas, SciPy, Matplotlib, Seaborn, Scikit-learn, NLTK, SpaCy</p>
